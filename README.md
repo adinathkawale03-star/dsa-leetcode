@@ -3,9 +3,6 @@
 <div align="center"><img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="220"/>Data Structures & Algorithms Journey
 
 Consistent Learning • Problem Solving • Interview Preparation
-
-"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Repository+Visitors)
-
 </div>---
 
 📖 Introduction
