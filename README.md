@@ -308,5 +308,14 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
