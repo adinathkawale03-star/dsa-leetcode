@@ -300,6 +300,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -318,4 +319,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
