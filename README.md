@@ -301,6 +301,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -314,6 +315,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -323,4 +325,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
