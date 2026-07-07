@@ -307,6 +307,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
