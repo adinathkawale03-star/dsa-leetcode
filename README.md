@@ -305,6 +305,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -351,4 +353,8 @@ Happy Coding! 🚀
 | ------- |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0414-third-maximum-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
