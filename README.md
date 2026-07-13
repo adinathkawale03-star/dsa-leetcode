@@ -301,6 +301,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -396,4 +398,8 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
