@@ -293,6 +293,8 @@ If this repository helps you in your learning journey:
 <div align="center">Thank You For Visiting
 
 Happy Coding! 🚀
+consistency is the key of the success
+connect me to solve the problems and build something new they can solve problems efficiently!
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/></div>
 <!---LeetCode Topics Start-->
