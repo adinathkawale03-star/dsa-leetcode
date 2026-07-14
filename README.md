@@ -304,6 +304,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
@@ -369,6 +370,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1486-xor-operation-in-an-array) |
