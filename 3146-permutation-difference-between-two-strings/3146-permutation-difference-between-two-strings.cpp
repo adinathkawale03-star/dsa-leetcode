@@ -1,13 +1,11 @@
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {
-        int n=s.size();
         int sum=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
+        for(int i=0;i<s.length();i++){
+            for(int j=0;j<t.length();j++){
                 if(s[i]==t[j]){
-                   sum+=abs(j-i);
-                   break;
+                    sum+= abs(j-i);
                 }
             }
         }
