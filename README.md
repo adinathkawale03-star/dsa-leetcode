@@ -302,6 +302,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -386,6 +387,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
