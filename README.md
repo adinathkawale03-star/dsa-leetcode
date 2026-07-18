@@ -360,6 +360,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2396-strictly-palindromic-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
