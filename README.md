@@ -308,6 +308,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
@@ -381,6 +382,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
