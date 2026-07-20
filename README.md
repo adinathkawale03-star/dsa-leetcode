@@ -332,6 +332,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
+| [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -353,6 +354,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0054-spiral-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -480,6 +482,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
