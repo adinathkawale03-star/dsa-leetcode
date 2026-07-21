@@ -309,6 +309,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -412,6 +413,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
@@ -485,6 +487,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
