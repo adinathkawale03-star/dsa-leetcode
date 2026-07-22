@@ -302,6 +302,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0046-permutations) |
@@ -414,6 +415,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -454,6 +456,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
