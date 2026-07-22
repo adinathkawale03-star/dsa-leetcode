@@ -313,6 +313,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
@@ -511,6 +512,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
