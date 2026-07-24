@@ -1,17 +1,15 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int nums11=-1;
-        int l=nums.size();
-        for(int i=0;i<l;i++){
+        //brute force problem solution 
+        int n=nums.size();
+        int ans=-1;
+        for(int i=0;i<n;i++){
             if(nums[i]==target){
-               nums11=i;
-               break;
-            }
-            else{
-                continue;
+                ans=i;
+                break;
             }
         }
-        return nums11;
+        return ans;
     }
 };
