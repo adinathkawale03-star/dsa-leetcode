@@ -416,6 +416,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
@@ -565,4 +566,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0046-permutations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0046-permutations) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
