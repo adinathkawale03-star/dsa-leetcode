@@ -342,6 +342,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0566-reshape-the-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
@@ -420,6 +421,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 ## Two Pointers
