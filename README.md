@@ -574,4 +574,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
