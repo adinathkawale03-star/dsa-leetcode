@@ -365,6 +365,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -404,6 +405,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
