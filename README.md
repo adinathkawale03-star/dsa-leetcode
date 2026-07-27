@@ -353,6 +353,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -498,6 +499,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0414-third-maximum-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -567,6 +569,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
