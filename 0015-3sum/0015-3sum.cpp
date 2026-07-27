@@ -5,23 +5,27 @@ public:
        sort(nums.begin(),nums.end());
        vector<vector<int>> ans;
        for(int i=0;i<n;i++){
-        if(i>0 && nums[i]==nums[i-1]){continue;}
-        int j=i+1;
-        int k=n-1;
-        while(j<k){
-            int sum=nums[i]+nums[j]+nums[k];
-            if(sum<0){ j++;}
-            else if(sum>0){k--;}
-            else{
-                vector<int> temp={nums[i],nums[j],nums[k]};
-                ans.push_back(temp);
-                j++;
-                k--;
-                while(nums[j]==nums[j-1] && j<k){j++;}
-                while(nums[k]==nums[k+1] && j<k){k--;}
+         if(i>0 && nums[i-1]==nums[i]){continue;}
+         int low=i+1;
+         int high=n-1;
+         while(low<high){
+            int sum=nums[i]+nums[low]+nums[high];
+            if(sum<0){
+                low++;
             }
-        }
-       }
+            else if(sum>0){
+                high--;
+            }
+            else{
+                ans.push_back({nums[i],nums[low],nums[high]});
+                low++;
+                high--;
+                while(low<high && nums[low-1]==nums[low]){low++;}
+                while(low<high && nums[high+1]==nums[high]){high--;}
+            }
+         }
+
+       } 
        return ans;
     }
 };
