@@ -374,6 +374,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -610,4 +611,8 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0176-second-highest-salary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0177-nth-highest-salary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
