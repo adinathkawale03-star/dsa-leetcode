@@ -341,6 +341,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0454-4sum-ii) |
@@ -447,6 +448,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -529,6 +531,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
@@ -581,9 +584,11 @@ connect me to solve the problems and build something new they can solve problems
 | [0119-pascals-triangle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Sliding Window
 |  |
