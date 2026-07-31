@@ -1,33 +1,34 @@
 class Solution {
-private: int maxi(vector<int>& nums){
-    int maxi=INT_MIN;
-    for(int i:nums){
-        maxi=max(i,maxi);
-    }
-    return maxi;
-}
-    long long check(vector<int>& nums,long long mid){
-        long long hrs=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            hrs+=ceil((double)nums[i]/(double)mid);
-        }
-        return hrs;
-    }
 public:
+bool check(int speed,vector<int>& piles, int h){
+    long long count=0;
+    int n=piles.size();
+    for(int i=0;i<n;i++){
+        // if(count>h) return false;     // Use this or make count long long due to very small speed
+        if(speed>=piles[i]) count++;
+        else if(piles[i]%speed==0) count+=(long long)(piles[i]/speed);
+        else count+=(long long)(piles[i]/speed+1);
+    }
+    if(count>(long long)h) return false;
+    else return true;
+}
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low=1;
-        int high=maxi(piles);
-        while(low<=high){
-            long long mid=low+((high-low)/2);
-            long long help=check(piles,mid);
-            if(help<=h){
-                high=mid-1;//shifting to the smaller value then these value
-            }
-            else{
-                low=mid+1;//shifting to the upper value because they required more time so for less upper value
-            }
+        int n=piles.size();
+        int mx=-1;
+        for(int i=0;i<n;i++){
+            mx=max(piles[i],mx);
         }
-        return low;
+        int low=1;
+        int high=mx;
+        int ans=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(check(mid,piles,h)==true){
+                ans=mid;
+                high=mid-1;
+            }
+            else low=mid+1;
+        }
+        return ans;
     }
 };
