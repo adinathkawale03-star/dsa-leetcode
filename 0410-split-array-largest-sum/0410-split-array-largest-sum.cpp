@@ -1,39 +1,39 @@
 class Solution {
-private: int count(vector<int>& nums,int p){
-    int cnt=0;
-    int st=1;
-    int n=nums.size();
-    for(int i=0;i<n;i++){
-        if(cnt+nums[i]<=p){
-            cnt+=nums[i];
-        }
-        else{
-            st++;
-            cnt=nums[i];
-        }
-    }
-    return st;
-}
-public:
-    int splitArray(vector<int>& nums, int k) {
-        //problem statement of these problem are the we can have any type of array such as cow,book , painter etc. we given the number spilit the array . so the number can contain 
-        //at least one entity and  the other are the contigous part of the array for the every entity they are the condition for it .  and the item in the array we can distribute to
-        //any one of them not the multiple. in the splited array we can take the maximum from each permutation in the splited array and return the minimium from it.
-        int n=nums.size();
-        int low=*max_element(nums.begin(),nums.end());
-        int high=accumulate(nums.begin(),nums.end(),0);
-       // if(k==1 || k==n){return low;}
-        if(k>n){return  -1;}
-        while(low<=high){
-            int mid=low+((high-low)/2);
-            int subpart=count(nums,mid);
-            if(subpart>k){
-                low=mid+1;
+private: 
+   int check(vector<int>& nums,int mid){
+        int sum=0;
+        int cnt=1;
+        for(int i:nums){
+            if(i+sum<=mid){
+                sum+=i;
             }
             else{
-                high=mid-1;
+                cnt++;
+                sum=i;
             }
         }
-        return low;
+        return cnt;
+   }
+public:
+    int splitArray(vector<int>& nums, int k) {
+       int n=nums.size();
+       int low=*max_element(nums.begin(),nums.end());
+       int high=accumulate(nums.begin(),nums.end(),0);
+       if(k>n){return -1;}
+       if(k==n){return low;}
+       if(k==1){
+        return high;
+       }
+       while(low<=high){
+        long long mid=low+((high-low)/2);
+        int help=check(nums,mid);
+        if(help>k){
+            low=mid+1;
+        }
+        else{
+            high=mid-1;
+        }
+       }
+       return low;
     }
 };
