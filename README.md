@@ -343,6 +343,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0414-third-maximum-number) |
@@ -452,6 +453,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -476,6 +478,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -491,6 +494,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0454-4sum-ii) |
@@ -528,6 +532,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
