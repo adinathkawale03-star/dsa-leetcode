@@ -4,18 +4,18 @@ public:
         int n=nums.size();
         int low=0;
         int high=n-1;
-        int ans=INT_MAX;
+        int min_element=INT_MAX;
         while(low<=high){
-            int mid=(low+high)/2;
+            int mid=low+((high-low)/2);
             if(nums[low]<=nums[mid]){
-                ans=min(ans,nums[low]);
+                min_element=min(min_element,nums[low]);
                 low=mid+1;
             }
             else{
-                ans=min(ans,nums[mid]);
+                min_element=min(min_element,nums[mid]);
                 high=mid-1;
             }
         }
-        return ans;
+        return min_element;
     }
 };
