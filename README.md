@@ -327,6 +327,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0119-pascals-triangle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -509,6 +510,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0260-single-number-iii) |
