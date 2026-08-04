@@ -1,49 +1,52 @@
 class Solution {
-private: int firstpo(vector<int> nums,int x,int n){
-       int low=0;
-       int high=n-1;
-       int ans=-1;
-       while(low<=high){
-        int mid=(low+high)/2;
-        if(nums[mid]==x){
-            ans=mid;
-            high=mid-1;
-        }
-        else if(nums[mid]<x){
-            low=mid+1;
-        }
-        else{
-            high=mid-1;
-        }
-       }
-       return ans;
-
-}
-      int lastpo(vector<int> nums,int x, int n){
+private: 
+    int findfloor(vector<int>& nums,int target){
+        int n=nums.size();
         int low=0;
         int high=n-1;
         int ans=-1;
         while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]==x){
+            int mid=low+((high-low)/2);
+            if(nums[mid]==target){
                 ans=mid;
-                low=mid+1;
+                high=mid-1;
             }
-            else if(nums[mid]<x){
-                low=mid+1;
+            else if(nums[mid]>target){
+                high=mid-1;
             }
             else{
-                high=mid-1;
+                low=mid+1;
             }
         }
         return ans;
-      }
+    }
+    int findlast(vector<int>& nums,int target){
+        int n=nums.size();
+        int ans=-1;
+        int low=0;
+        int high=n-1;
+        while(low<=high){
+            int mid=low+((high-low)/2);
+            if(nums[mid]==target){
+                low=mid+1;
+                ans=mid;
+            }
+            else if(nums[mid]>target){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+        }
+        return ans;
+    }
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-       int n=nums.size();
-       int first=firstpo(nums,target,n);
-       if(first==-1){return {-1,-1};}
-       int last=lastpo(nums,target,n);
-       return {first,last};
+        int n=nums.size();
+        if(n==0){return {-1,-1};}
+        int first=findfloor(nums,target);
+        if(first==-1){return {-1,-1};}
+        int last =findlast(nums,target);
+        return {first,last};
     }
 };
