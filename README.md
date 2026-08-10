@@ -368,6 +368,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -480,6 +481,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0875-koko-eating-bananas](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -621,6 +623,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0566-reshape-the-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
