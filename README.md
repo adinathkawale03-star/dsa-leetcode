@@ -540,6 +540,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1486-xor-operation-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3827-count-monobit-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -657,6 +658,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0204-count-primes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3827-count-monobit-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3827-count-monobit-integers) |
 ## Union-Find
 |  |
 | ------- |
