@@ -418,6 +418,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -437,6 +438,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1344-angle-between-hands-of-a-clock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
