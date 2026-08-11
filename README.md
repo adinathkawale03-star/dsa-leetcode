@@ -318,6 +318,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0054-spiral-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
@@ -425,6 +426,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0204-count-primes) |
