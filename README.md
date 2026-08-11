@@ -438,6 +438,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2348-number-of-zero-filled-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
+| [2544-alternating-digit-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
