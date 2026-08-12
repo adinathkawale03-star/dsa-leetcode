@@ -398,6 +398,7 @@ connect me to solve the problems and build something new they can solve problems
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -529,6 +530,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
