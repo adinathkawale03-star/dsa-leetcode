@@ -398,6 +398,7 @@ connect me to solve the problems and build something new they can solve problems
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
@@ -411,6 +412,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
@@ -426,6 +428,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0069-sqrtx) |
