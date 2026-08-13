@@ -732,4 +732,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
