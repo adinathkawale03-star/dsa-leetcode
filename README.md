@@ -429,6 +429,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0066-plus-one) |
@@ -738,8 +739,13 @@ connect me to solve the problems and build something new they can solve problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
