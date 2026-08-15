@@ -438,6 +438,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0069-sqrtx) |
@@ -760,5 +761,6 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
