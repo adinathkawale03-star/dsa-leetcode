@@ -400,6 +400,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
@@ -417,6 +418,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0566-reshape-the-matrix) |
@@ -435,6 +437,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0204-count-primes) |
@@ -563,6 +566,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0191-number-of-1-bits) |
