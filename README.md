@@ -755,6 +755,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
