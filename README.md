@@ -454,6 +454,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -767,6 +768,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0237-delete-node-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
