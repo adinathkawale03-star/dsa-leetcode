@@ -11,19 +11,15 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        //brute force solution for the problem
-        ListNode* temp=head;
-        int cnt=0;
-        while(temp!=NULL){
-            cnt++;
-            temp=temp->next;
+        //optimal solution for the problem
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        cnt=(cnt/2)+1;
-        temp=head;
-        while(temp!=NULL && cnt!=1){
-            cnt--;
-            temp=temp->next;
-        }
-        return temp;
+        return slow;
     }
 };
+//tc:o(n/2);
+//sc:o(1);
