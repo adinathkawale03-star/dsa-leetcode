@@ -11,23 +11,19 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int cnt=0;
+        //brute force solution for the problem
         ListNode* temp=head;
+        int cnt=0;
         while(temp!=NULL){
             cnt++;
             temp=temp->next;
         }
-        ListNode* newnode=head;
-        int k=cnt/2;
-        int cnt2=0;
-        while(newnode!=NULL){
-            cnt2++;
-            if(k+1==cnt2){
-                head=newnode;
-                return head;
-            }
-            newnode=newnode->next;
+        cnt=(cnt/2)+1;
+        temp=head;
+        while(temp!=NULL && cnt!=1){
+            cnt--;
+            temp=temp->next;
         }
-        return head;
+        return temp;
     }
 };
