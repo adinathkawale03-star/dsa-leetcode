@@ -532,6 +532,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0088-merge-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -733,6 +734,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Pigeonhole Principle
 |  |
@@ -759,6 +761,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0092-reverse-linked-list-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -770,4 +773,5 @@ connect me to solve the problems and build something new they can solve problems
 | [0050-powx-n](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
