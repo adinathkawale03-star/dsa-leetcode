@@ -368,6 +368,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0852-peak-index-in-a-mountain-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
@@ -542,6 +543,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -615,6 +617,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
+| [0922-sort-array-by-parity-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
