@@ -532,6 +532,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0031-next-permutation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
@@ -599,6 +600,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0056-merge-intervals](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -635,6 +637,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -647,6 +650,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -763,6 +767,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
