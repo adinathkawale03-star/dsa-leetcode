@@ -535,6 +535,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
@@ -560,6 +561,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0217-contains-duplicate) |
@@ -761,6 +763,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
@@ -779,6 +782,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0206-reverse-linked-list) |
