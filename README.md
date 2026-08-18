@@ -408,6 +408,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -565,6 +566,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -661,6 +663,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -792,4 +795,8 @@ connect me to solve the problems and build something new they can solve problems
 | [0203-remove-linked-list-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
