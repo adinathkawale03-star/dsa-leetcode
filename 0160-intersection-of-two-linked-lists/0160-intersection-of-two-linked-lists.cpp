@@ -7,22 +7,36 @@
  * };
  */
 class Solution {
+private:
+    ListNode* colla(ListNode* t1,ListNode* t2,int d){
+        while(d>0 && t1!=NULL){
+            d--;
+            t1=t1->next;
+        }
+        while(t1!=NULL && t2!=NULL && t1!=t2){
+            t1=t1->next;
+            t2=t2->next;
+        }
+        return t1;
+    }
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode*,int> radha;
-        ListNode* temp=headA;
-        while(temp!=NULL){
-            radha[temp]=1;
-            temp=temp->next;
-        }
-        temp=headB;
-        while(temp!=NULL){
-            if(radha.find(temp)!=radha.end()){
-                return temp;
+        ListNode* t1=headA;
+        ListNode* t2=headB;
+        int n1=0,n2=0;
+        while(t1!=NULL || t2!=NULL){
+            if(t1){
+                n1++;
+                t1=t1->next;
             }
-            temp=temp->next;
+            if(t2){
+                n2++;
+                t2=t2->next;
+            }
         }
-        return NULL;
-
+        if(n1>n2){
+            return colla(headA,headB,n1-n2);
+        }
+        return colla(headB,headA,n2-n1);
     }
 };
