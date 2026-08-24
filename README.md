@@ -404,6 +404,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2784-check-if-array-is-good](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2951-find-the-peaks) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3467-transform-array-by-parity) |
@@ -446,6 +447,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2180-count-integers-with-even-digit-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
