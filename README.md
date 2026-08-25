@@ -689,6 +689,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
@@ -703,6 +704,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -758,6 +760,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -834,6 +837,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -882,4 +886,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
