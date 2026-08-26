@@ -412,6 +412,7 @@ connect me to solve the problems and build something new they can solve problems
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3467-transform-array-by-parity) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -495,6 +496,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2651-calculate-delayed-arrival-time](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -505,6 +507,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -627,6 +630,7 @@ connect me to solve the problems and build something new they can solve problems
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -727,6 +731,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3467-transform-array-by-parity) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
