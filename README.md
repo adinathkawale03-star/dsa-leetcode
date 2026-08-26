@@ -432,6 +432,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1903-largest-odd-number-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
@@ -613,6 +614,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -717,6 +719,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3467-transform-array-by-parity) |
