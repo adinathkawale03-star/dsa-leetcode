@@ -473,6 +473,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0204-count-primes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0441-arranging-coins) |
@@ -758,6 +759,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0119-pascals-triangle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -803,6 +805,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0046-permutations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0047-permutations-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Interactive
 |  |
 | ------- |
