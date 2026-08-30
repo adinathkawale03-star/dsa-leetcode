@@ -428,6 +428,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1446-consecutive-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1446-consecutive-characters) |
