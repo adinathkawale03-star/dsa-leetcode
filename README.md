@@ -439,6 +439,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
@@ -633,6 +634,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
