@@ -438,6 +438,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
@@ -627,6 +628,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -796,6 +798,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0204-count-primes) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
