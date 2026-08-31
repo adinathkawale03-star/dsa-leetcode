@@ -1,22 +1,20 @@
 struct ListNode* reverseList(struct ListNode* head) {
-    if (!head || !head->next) {
+    if(!head || !head->next){
         return head;
     }
-
-    struct ListNode *temp = malloc(sizeof(struct ListNode));
-    temp->val = head->val;
-    temp->next = NULL; 
-
-    struct ListNode *ans = temp;
-    struct ListNode *temp2 = head->next;
-
-    while (temp2 != NULL) {
-        struct ListNode *newnode = malloc(sizeof(struct ListNode));
-        newnode->val = temp2->val;
-        newnode->next = ans;
-        ans = newnode;
-        temp2 = temp2->next;
+    struct ListNode* ans;
+    ans=malloc(sizeof(struct ListNode));
+    struct ListNode* temp=head;
+    ans->val=temp->val;
+    temp=temp->next;
+    ans->next=NULL;
+    while(temp!=NULL){
+        struct ListNode* newnode;
+        newnode=malloc(sizeof(struct ListNode));
+        newnode->val=temp->val;
+        newnode->next=ans;
+        ans=newnode;
+        temp=temp->next;
     }
-
     return ans;
 }
