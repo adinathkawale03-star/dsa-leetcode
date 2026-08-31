@@ -425,6 +425,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -580,6 +581,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0143-reorder-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0202-happy-number) |
