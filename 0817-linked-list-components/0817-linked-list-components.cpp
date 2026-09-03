@@ -11,15 +11,15 @@
 class Solution {
 public:
     int numComponents(ListNode* head, vector<int>& nums) {
-        unordered_set<int> numSet(nums.begin(), nums.end());
-        int count = 0;
-        ListNode* curr = head;
-        while (curr != nullptr) {
-            if (numSet.count(curr->val) && (curr->next == nullptr || !numSet.count(curr->next->val))) {
-                count++;
+        unordered_set<int> a(nums.begin(), nums.end());
+        int cnt = 0;
+        ListNode* temp = head;
+        while (temp != nullptr) {
+            if (a.count(temp->val) && (temp->next == nullptr || !a.count(temp->next->val))) {
+                cnt++;
             }
-            curr = curr->next;
+            temp = temp->next;
         }
-        return count;
+        return cnt;
     }
 };
