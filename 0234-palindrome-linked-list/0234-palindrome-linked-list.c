@@ -6,30 +6,27 @@
  * };
  */
 bool isPalindrome(struct ListNode* head) {
-    if (!head || !head->next) return true;
-    int len = 0;
-    struct ListNode* temp = head;
-    while (temp != NULL) {
-        len++;
-        temp = temp->next;
+    if(!head || !head->next){
+        return true;
     }
-    int* val = (int*)malloc(len * sizeof(int));
-    if (!val) return false;
-    temp = head;
-    for (int i = 0; i < len; i++) {
-        val[i] = temp->val;
-        temp = temp->next;
+    int l=0;
+    struct ListNode* temp=head;
+    while(temp!=NULL){
+        l++;
+        temp=temp->next;
     }
-    int left = 0, right = len - 1;
-    bool isPalin = true;
-    while (left < right) {
-        if (val[left] != val[right]) {
-            isPalin = false;
-            break;
+    int* val=(int*)malloc(l*sizeof(int));
+    temp=head;
+    int cnt=0;
+    while(cnt!=l){
+        val[cnt]=temp->val;
+        cnt++;
+        temp=temp->next;
+    }
+    for(int i=0;i<l/2;i++){
+        if(val[i]!=val[l-i-1]){
+            return false;
         }
-        left++;
-        right--;
     }
-    free(val);
-    return isPalin;
+    return true;
 }
