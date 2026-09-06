@@ -1,5 +1,3 @@
-#include <string.h>
-#include <stdbool.h>
 
 bool digitCount(char* num) {
     int n = strlen(num);
