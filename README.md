@@ -443,6 +443,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1903-largest-odd-number-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -643,6 +644,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
@@ -751,6 +753,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
