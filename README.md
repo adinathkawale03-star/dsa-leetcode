@@ -493,6 +493,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0504-base-7](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
