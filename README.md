@@ -378,6 +378,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0875-koko-eating-bananas](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
@@ -637,6 +638,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -854,6 +856,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0164-maximum-gap](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
