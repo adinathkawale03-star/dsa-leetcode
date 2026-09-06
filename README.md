@@ -420,6 +420,7 @@ connect me to solve the problems and build something new they can solve problems
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
 | ------- |
@@ -467,6 +468,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2553-separate-the-digits-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
