@@ -519,6 +519,7 @@ connect me to solve the problems and build something new they can solve problems
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
