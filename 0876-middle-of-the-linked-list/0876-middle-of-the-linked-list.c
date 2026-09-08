@@ -6,22 +6,12 @@
  * };
  */
 struct ListNode* middleNode(struct ListNode* head) {
-    if(!head || !head->next){
-        return head;
-    }
-    int l=0;
-    struct ListNode* temp=head;
-    while(temp!=NULL){
-        l++;
-        temp=temp->next;
-    } 
-    l=(l/2)+1;
-    int cnt=0;
-    temp=head;
-    while(temp!=NULL){
-        cnt++;
-        if(cnt==l){return temp;}
-        temp=temp->next;
-    }
-    return head;
+   //striver sheet revision
+   struct ListNode* fast=head;
+   struct ListNode* slow=head;
+   while(fast!=NULL && fast->next!=NULL){
+    fast=fast->next->next;
+    slow=slow->next;
+   }
+   return slow;
 }
