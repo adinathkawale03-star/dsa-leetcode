@@ -374,6 +374,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
+| [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -462,6 +463,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0258-add-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -603,6 +605,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -677,6 +680,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0287-find-the-duplicate-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -779,6 +783,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
