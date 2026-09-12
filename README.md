@@ -396,6 +396,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1901-find-a-peak-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1995-count-special-quadruplets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1995-count-special-quadruplets) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
@@ -650,6 +651,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1995-count-special-quadruplets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -832,6 +834,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0204-count-primes) |
+| [1995-count-special-quadruplets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2951-find-the-peaks) |
