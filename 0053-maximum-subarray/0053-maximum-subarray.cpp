@@ -1,16 +1,16 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-      int sum=0;
-      int maxi=nums[0];
-      for(int i:nums){
-        sum+=i;
-        maxi=max(maxi,sum);
-        if(sum<0){
-            sum=0;
+     int ans=0;
+     int maxi=nums[0];
+     for(int i:nums){
+        ans+=i;
+        maxi=max(ans,maxi);
+        if(ans<0){
+            ans=0;
         }
-      }
-      return maxi;
+     }
+     return maxi;
     }
 };
 //tc:o(n)
