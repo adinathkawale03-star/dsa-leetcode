@@ -517,6 +517,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -872,6 +873,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -925,6 +927,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
