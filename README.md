@@ -869,6 +869,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
@@ -945,6 +946,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quicksort
 |  |
@@ -963,4 +965,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
