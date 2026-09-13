@@ -429,6 +429,7 @@ connect me to solve the problems and build something new they can solve problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0125-valid-palindrome) |
@@ -868,6 +869,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -972,4 +974,8 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
