@@ -314,6 +314,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
@@ -588,6 +589,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -799,6 +801,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -871,6 +874,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -967,6 +971,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Tournament Sort
