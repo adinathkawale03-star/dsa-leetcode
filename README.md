@@ -349,6 +349,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0219-contains-duplicate-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
@@ -821,6 +822,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
@@ -828,6 +830,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -959,6 +962,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quicksort
 |  |
@@ -989,4 +993,12 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
