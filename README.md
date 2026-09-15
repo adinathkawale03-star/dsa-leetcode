@@ -304,6 +304,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0001-two-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0018-4sum) |
@@ -589,6 +590,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0018-4sum) |
@@ -820,6 +822,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
