@@ -378,6 +378,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
@@ -901,6 +902,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -997,6 +999,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0402-remove-k-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tournament Sort
