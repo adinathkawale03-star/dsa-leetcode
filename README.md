@@ -408,6 +408,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -894,6 +895,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Pigeonhole Principle
@@ -987,6 +989,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tournament Sort
 |  |
 | ------- |
