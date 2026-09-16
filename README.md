@@ -507,6 +507,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0268-missing-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -952,6 +953,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0234-palindrome-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -1025,4 +1027,12 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
