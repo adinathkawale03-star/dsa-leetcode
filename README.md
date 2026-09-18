@@ -957,6 +957,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0328-odd-even-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1017,6 +1018,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0155-min-stack](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0707-design-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
