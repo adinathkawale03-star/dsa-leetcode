@@ -391,6 +391,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -906,6 +907,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0735-asteroid-collision](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -961,6 +963,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0707-design-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -1008,6 +1011,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tournament Sort
 |  |
