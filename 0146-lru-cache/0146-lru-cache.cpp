@@ -1,76 +1,78 @@
-class Node{
+class d{
 public:
    int key,val;
-   Node* next;
-   Node* prev;
-   Node(){
-    key=-1;
-    val=-1;
-   }
-   Node(int key1,int val1){
+   d* next;
+   d* prev;
+   d(int key1=-1,int val1=-1){
     key=key1;
     val=val1;
-    prev=nullptr;
     next=nullptr;
+    prev=nullptr;
    }
 };
 class LRUCache {
 private:
-    Node* head;
-    Node* tail;
-    unordered_map<int,Node*> a;
-    int cap=0;
-    void deleteN(Node* node){
-        Node* newnode=node->prev;
-        newnode->next=node->next;
-        newnode->next->prev=newnode;
-        node->next=nullptr;
-        node->prev=nullptr;
-    }
-    void insertN(Node* node){
-        node->next=head->next;
-        head->next=node;
-        node->prev=head;
-        node->next->prev=node;
-    }
+   d* head;
+   d* tail;
+   int cap;
+   unordered_map<int,d*> a;
+   void inserth(d* node){
+    node->next=head->next;
+    node->prev=head;
+    head->next->prev=node;
+    head->next=node;
+   }
+   void deleten(d* node){
+    d* newnode=node->prev;
+    newnode->next=node->next;
+    node->next->prev=newnode;
+    node->next=nullptr;
+    node->prev=nullptr;
+   }
 public:
     LRUCache(int capacity) {
         cap=capacity;
-        head=new Node();
-        tail=new Node();
+        a.clear();
+        head=new d();
+        tail=new d();
         head->next=tail;
         tail->prev=head;
-        a.clear();
     }
     
     int get(int key) {
         if(a.find(key) == a.end()){
             return -1;
         }
-        Node* newnode=a[key];
+        d* newnode=a[key];
         int value=newnode->val;
-        deleteN(newnode);
-        insertN(newnode);
+        deleten(newnode);
+        inserth(newnode);
         return value;
     }
     
     void put(int key, int value) {
-        if(a.find(key)!=a.end()){
-            Node* newnode=a[key];
-            newnode->val=value;
-            deleteN(newnode);
-            insertN(newnode);
-            return;
-        }
-        if(a.size() == cap){
-            Node* newnode=tail->prev;
-            int key2=newnode->key;
-            deleteN(newnode);
-            a.erase(key2);
-        }
-        Node* newnode=new Node(key,value);
-        insertN(newnode);
+       if(a.find(key) != a.end()){
+        d* newnode=a[key];
+        newnode->val=value;
+        deleten(newnode);
+        inserth(newnode);
+        return;
+       }
+       if(a.size() == cap){
+        d* node=tail->prev;
+        deleten(node);
+        d* newnode=new d(key,value);
+        inserth(newnode);
+        int k=node->key;
+        delete node;
+        a.erase(k);
         a[key]=newnode;
+       }
+       else{
+        d* newnode=new d(key,value);
+        inserth(newnode);
+        a[key]=newnode;
+       }
     }
 };
 /**
