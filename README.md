@@ -424,6 +424,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2784-check-if-array-is-good](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2951-find-the-peaks) |
@@ -680,6 +681,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2784-check-if-array-is-good](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -864,6 +866,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1995-count-special-quadruplets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2427-number-of-common-factors) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3827-count-monobit-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3827-count-monobit-integers) |
