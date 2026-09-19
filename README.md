@@ -415,6 +415,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -674,6 +675,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -815,6 +817,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
