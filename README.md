@@ -371,6 +371,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0540-single-element-in-a-sorted-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0566-reshape-the-matrix) |
+| [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -968,6 +969,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0328-odd-even-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -1000,6 +1002,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
 ## Quicksort
 |  |
 | ------- |
@@ -1033,6 +1036,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0155-min-stack](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0707-design-linked-list) |
 ## Bracket Sequences
 |  |
