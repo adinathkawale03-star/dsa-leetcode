@@ -486,6 +486,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -791,6 +792,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0169-majority-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1039,6 +1041,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0232-implement-queue-using-stacks](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0707-design-linked-list) |
+| [1603-design-parking-system](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1603-design-parking-system) |
 ## Bracket Sequences
 |  |
 | ------- |
