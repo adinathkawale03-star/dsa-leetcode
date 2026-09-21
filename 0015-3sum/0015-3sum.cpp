@@ -1,15 +1,15 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-      int n=nums.size();
       vector<vector<int>> ans;
+      int n=nums.size();
       sort(nums.begin(),nums.end());
-      for(int i=0;i<nums.size()-2;i++){
+      for(int i=0;i<n;i++){
         if(i>0 && nums[i-1]==nums[i]){
             continue;
         }
         int j=i+1;
-        int k=nums.size()-1;
+        int k=n-1;
         while(j<k){
             int sum=nums[i]+nums[j]+nums[k];
             if(sum<0){
@@ -24,11 +24,9 @@ public:
                 k--;
                 while(j<k && nums[j-1]==nums[j]){
                     j++;
-                    continue;
                 }
-                while(j<k && nums[k+1]==nums[k]){
+                while(k>j && nums[k+1]==nums[k]){
                     k--;
-                    continue;
                 }
             }
         }
@@ -36,3 +34,5 @@ public:
       return ans;
     }
 };
+//tc:o(nlogn + n*(n))==o(n^2)
+//sc:o(n)
