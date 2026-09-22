@@ -446,6 +446,7 @@ connect me to solve the problems and build something new they can solve problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
@@ -651,6 +652,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -850,6 +852,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
