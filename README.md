@@ -459,6 +459,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
@@ -674,6 +675,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0349-intersection-of-two-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0454-4sum-ii) |
@@ -860,6 +862,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
