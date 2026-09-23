@@ -397,6 +397,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1004-max-consecutive-ones-iii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -532,6 +533,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0633-sum-of-square-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -688,6 +690,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0904-fruit-into-baskets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -779,6 +782,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0724-find-pivot-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -872,6 +876,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0904-fruit-into-baskets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
