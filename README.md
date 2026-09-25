@@ -328,6 +328,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -724,6 +725,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0191-number-of-1-bits) |
@@ -925,6 +927,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0046-permutations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Interactive
 |  |
