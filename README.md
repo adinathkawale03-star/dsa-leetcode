@@ -388,6 +388,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0817-linked-list-components](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0896-monotonic-array) |
@@ -877,6 +878,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0402-remove-k-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
