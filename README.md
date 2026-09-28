@@ -409,6 +409,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1470-shuffle-the-array) |
@@ -703,6 +704,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0992-subarrays-with-k-different-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1995-count-special-quadruplets) |
@@ -830,6 +832,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0229-majority-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
