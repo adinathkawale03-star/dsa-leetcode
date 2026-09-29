@@ -1023,6 +1023,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0143-reorder-list) |
@@ -1143,6 +1144,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -1154,6 +1156,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0100-same-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -1168,6 +1171,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -1180,6 +1184,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
