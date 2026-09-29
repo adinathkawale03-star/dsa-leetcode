@@ -488,6 +488,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3340-check-balanced-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
