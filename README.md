@@ -440,6 +440,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2784-check-if-array-is-good](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -718,6 +719,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2404-most-frequent-even-element](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2784-check-if-array-is-good](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -750,6 +752,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3827-count-monobit-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3827-count-monobit-integers) |
 ## Sorting
@@ -803,6 +806,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
