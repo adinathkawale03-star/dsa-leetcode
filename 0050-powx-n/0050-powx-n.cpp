@@ -1,18 +1,21 @@
 class Solution {
-private:
-    double solve(double x, long long n) {
-        if (n == 0) return 1.0;
-        if (n % 2 == 0) return solve(x * x, n / 2);
-        return x * solve(x, n - 1);
-    }
-
 public:
     double myPow(double x, int n) {
-        //striver revision
-        long long N = n;
-        if (N < 0) {
-            return 1.0 / solve(x, -N);
+      //optimal solution for the given problem
+      long long nn=n;
+      double ans=1.0000;
+      if(nn<0){nn=-1*nn;}
+      while(nn>0){
+        if(nn%2==0){
+            x=x*x;
+            nn=nn/2;
         }
-        return solve(x, N);
+        else{
+            ans=ans*x;
+            nn=nn-1;
+        }
+      }
+      if(n<0) ans=(double)1.0000/(double)ans;
+      return ans;
     }
 };
