@@ -1121,6 +1121,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Queue
 |  |
 | ------- |
