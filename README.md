@@ -463,6 +463,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0067-add-binary) |
@@ -526,6 +527,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0050-powx-n) |
@@ -680,6 +682,7 @@ connect me to solve the problems and build something new they can solve problems
 | ------- |
 | [0001-two-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
