@@ -463,6 +463,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
@@ -632,6 +633,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0016-3sum-closest) |
@@ -884,6 +886,7 @@ connect me to solve the problems and build something new they can solve problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0055-jump-game) |
@@ -1209,4 +1212,8 @@ connect me to solve the problems and build something new they can solve problems
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
