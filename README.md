@@ -482,6 +482,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0504-base-7](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1446-consecutive-characters) |
@@ -911,6 +912,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0410-split-array-largest-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -1005,6 +1007,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0735-asteroid-collision](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1138,6 +1141,7 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Queue
