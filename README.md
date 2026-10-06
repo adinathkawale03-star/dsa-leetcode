@@ -430,6 +430,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2032-two-out-of-three](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2032-two-out-of-three) |
 | [2055-plates-between-candles](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -517,6 +518,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1603-design-parking-system](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -1094,6 +1096,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0239-sliding-window-maximum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Quicksort
 |  |
 | ------- |
