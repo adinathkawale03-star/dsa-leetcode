@@ -1190,6 +1190,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -1203,6 +1204,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -1219,6 +1221,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0144-binary-tree-preorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -1248,4 +1251,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0493-reverse-pairs) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
