@@ -1195,6 +1195,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1230,6 +1231,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
