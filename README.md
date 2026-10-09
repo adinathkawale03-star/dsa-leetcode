@@ -487,6 +487,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1446-consecutive-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -921,6 +922,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0455-assign-cookies](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1019,6 +1021,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1153,6 +1156,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0020-valid-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Queue
