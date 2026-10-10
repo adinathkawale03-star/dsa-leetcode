@@ -725,6 +725,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0904-fruit-into-baskets](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -807,6 +808,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1199,6 +1201,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -1216,6 +1219,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1235,6 +1239,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -1249,6 +1254,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Manacher
 |  |
 | ------- |
