@@ -1193,6 +1193,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1213,6 +1214,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0101-symmetric-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1235,6 +1237,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1256,6 +1259,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0199-binary-tree-right-side-view) |
