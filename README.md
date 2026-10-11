@@ -382,6 +382,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0622-design-circular-queue](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -846,6 +847,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0215-kth-largest-element-in-an-array](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -1017,6 +1019,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0445-add-two-numbers-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -1133,6 +1136,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0402-remove-k-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -1203,6 +1207,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -1247,6 +1252,7 @@ connect me to solve the problems and build something new they can solve problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -1295,4 +1301,8 @@ connect me to solve the problems and build something new they can solve problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
