@@ -459,6 +459,7 @@ connect me to solve the problems and build something new they can solve problems
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -823,6 +824,7 @@ connect me to solve the problems and build something new they can solve problems
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -939,6 +941,7 @@ connect me to solve the problems and build something new they can solve problems
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adinathkawale03-star/dsa-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
